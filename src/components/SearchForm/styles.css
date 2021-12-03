@@ -1,0 +1,28 @@
+
+.rcenter {
+    text-align: center;
+    align-items: center;
+}
+
+.pagination.pagination-split li{
+    display: inline-block;
+    margin: 3px;
+}
+
+.pagination.pagination-split li a{
+    border-radius: 3px;
+    color: darkgray;
+}
+
+#indexButtons li{
+    border-radius: 3px;
+    background-color: #3c64ac;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    cursor: pointer;
+}
+
+#indexButtons li:hover{
+    background-color: #123067;
+}
